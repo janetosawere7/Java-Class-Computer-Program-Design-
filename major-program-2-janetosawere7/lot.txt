@@ -1,0 +1,92 @@
+Car
+Year: 2013
+Make: Hyundai
+Model: Elantra GLS
+Mileage: 90462
+Miles Per Gallon: 31
+Color: White
+Seats: 4
+Doors: 4
+Price: 10599.99
+VehicleID: 001
+Engine specifications: Automatic, 2WD, 4 cylinders, non-hybrid, 146.3 hp
+Convertible: No
+Car
+Year: 2014
+Make: Nissan
+Model: Altima S
+Mileage: 102486
+Miles Per Gallon: 36
+Color: Gold
+Seats: 4
+Doors: 4
+Price: 11998.99
+VehicleID: 002
+Engine specifications: Manual, 2WD, 4 cylinders, non-hybrid, 183.9 hp
+Convertible: Yes
+Truck
+Year: 2016
+Make: Chevrolet
+Model: Silverado 1500 LT Z71
+Mileage: 40653
+Miles Per Gallon: 26
+Color: Black
+Seats: 4
+Doors: 4
+Price: 26998.98
+VehicleID: 003
+Engine specifications: Automatic, 4WD, 6 cylinders, non-hybrid, 357.5 hp
+Bed Space: 18.4
+Car
+Year: 2019
+Make: Ford
+Model: Fusion Hybrid Titanium
+Mileage: 38579
+Miles Per Gallon: 43
+Color: Black
+Seats: 4
+Doors: 4
+Price: 19998.99
+VehicleID: 004
+Engine specifications: Automatic, 2WD, 4 cylinders, hybrid, 245.9 hp
+Convertible: No
+SUV
+Year: 2015
+Make: GMC
+Model: Terrain SLT
+Mileage: 48200
+Miles Per Gallon: 24
+Color: Blue
+Seats: 5
+Doors: 4
+Price: 17998.99
+VehicleID: 005
+Engine specifications: Automatic, 2WD, 4 cylinders, non-hybrid, 180.9 hp
+Cargo Space: 15.3
+Removable Seats: No
+Minivan
+Year: 2017
+Make: Dodge
+Model: Grand Caravan SXT
+Mileage: 32456
+Miles Per Gallon: 20
+Color: Grey
+Seats: 7
+Doors: 4
+Price: 15399.99
+VehicleID: 006
+Engine specifications: Automatic, 2WD, 6 cylinders, non-hybrid, 283.9 hp
+Sliding doors: Yes
+Truck
+Year: 2013
+Make: Ford
+Model: F150 XLT
+Mileage: 213764
+Miles Per Gallon: 19
+Color: Red
+Seats: 4
+Doors: 4
+Price: 16798.98
+VehicleID: 007
+Engine specifications: Automatic, 2WD, 8 cylinders, non-hybrid, 377.9 hp
+Bed Space: 15.8
