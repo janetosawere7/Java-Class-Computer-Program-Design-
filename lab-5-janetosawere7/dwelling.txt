@@ -1,0 +1,36 @@
+H 
+800 Greenhaven Dr
+Timbuktu
+AL
+89744
+10
+7.5
+3.8
+3
+A 
+5673 Lassie Ln
+Kalamazoo
+MI
+62399
+2
+1.5
+2C
+1
+A 
+129 Happy Lucky Dr
+Charlotte
+NC
+28216
+2
+2
+5X
+0
+H
+6969 Looney Lane
+Los Angeles
+CA
+31099
+3
+1
+0.25
+1
